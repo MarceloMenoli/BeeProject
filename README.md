@@ -54,7 +54,7 @@ This project aims to list all existing Pokemons and also present detailed inform
 Clone this repository and access the directory.
 
 ```bash
-$ git clone git@github.com:MarceloMenoli/beeProject.git && cd pokedex
+$ git clone git@github.com:MarceloMenoli/BeeProject.git && cd pokedex
 ```
 
 ```bash
