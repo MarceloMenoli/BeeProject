@@ -1,12 +1,12 @@
 import styled from 'styled-components';
 import { FaHeart } from 'react-icons/fa';
 
-
 export const Button = styled.div`
   background: none;
   border: none;
   outline: none;
   cursor: pointer;
+  z-index: 9;
 `;
 
 export const HeartOutlined = styled(FaHeart)`
